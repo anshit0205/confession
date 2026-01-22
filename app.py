@@ -320,9 +320,9 @@ elif datetime.now() < st.session_state.timer_start + timedelta(minutes=COUNTDOWN
     
     st.markdown("""
     <div class='notice-box' style='border-left: 4px solid #FFD700; color: #fffacd; background: rgba(255, 215, 0, 0.05);'>
-    <b>Important Notice</b><br>
+    <b>DO NOT CLOSE THE TAB!</b><br>
     Please read carefully. This might be the last message from Anshit. You may also never see Anshit again.<br>
-    The archive will open shortly.
+    The story will open shortly.
     </div>
     """, unsafe_allow_html=True)
 
@@ -348,7 +348,7 @@ else:
     st.markdown("<div class='main-title' style='font-size:3rem; margin-bottom: 20px;'>The Last Message</div>", unsafe_allow_html=True)
     
     # The Text Content (Unchanged)
-    MESSAGE_BODY = """ Hello Vaibhavi,
+    MESSAGE_BODY = """ Hello Vaibhavi, 
 Tereko romantic novels pasand hain na, aaj ek kahani sunata hoon.
 
 Ek ladka tha, uska naam Yash. Uska breakup bahut kharaab hua tha—itna kharaab ki vo mentally kaafi down rehne laga. Usne apne kisi dost ko breakup ka asli reason nahi bataya. Uske andar ek toofan sa ban gaya tha. Uparwale ki kripa se uski ek dost thi, jisko usne sab bata diya, aur dheere-dheere usse baatein karte-karte vo thoda theek hone laga.
@@ -369,11 +369,11 @@ Time ke saath-saath, jis ladki ka vo itna mazaak udaata tha, jiske saath hasta t
 
 Usne decide kiya ki ab vo apni dost se nafrat karega—chhoti-chhoti baaton par gussa karega, daantega, chillayega—taaki ek baar kaam khatam hone ke baad vo dono kabhi baat hi na karein, aur kabhi ek-dusre ka chehra bhi na dekhein.
 
-Par jab bhi vo apni dost ka masoom sa chehra dekhta, vo gussa reh hi nahi paata tha. Uska koi plan kaam nahi kar raha tha. Ek saal baad phir se uske andar ek toofan paida ho gaya. Usne kisi ko kuch nahi bataya aur akele hi suffer karta raha.
+Par jab bhi vo apni dost ka pyaara masoom sa chehra dekhta, vo gussa reh hi nahi paata tha. Uska koi plan kaam nahi kar raha tha. Ek saal baad phir se uske andar ek toofan paida ho gaya. Usne kisi ko kuch nahi bataya aur akele hi suffer karta raha.
 
 Kabhi-kabhi vo shaant ho jaata tha, kabhi ajeeb sa behave karne lagta tha achanak. Uski dost ko bhi pareshani hone lagi ki use kya ho gaya hai. Kaash vo ladka bata paata… par vo nahi chahta tha ki vo kabhi us par burden bane. Vo bilkul nahi chahta tha ki uski dost kabhi is topic par soche, ya unki itni pyaari dosti par koi asar pade.
 
-Vo ladka roz Bhagwan se pray karta tha ki sab theek ho jaaye, kyunki ab usse sambhala nahi ja raha tha. Vo is had tak tayaar tha ki uski dost ka koi boyfriend ban jaaye, aur fir uski dost usse kabhi baat hi na kare—sirf isliye taaki uski dost khush rahe, aur shayad time ke saath vo khud bhi theek ho jaaye.
+Vo ladka roz Bhagwan se pray karta tha ki sab theek ho jaaye, kyunki ab usse sambhala nahi ja raha tha. Vo is had tak tayaar tha ki uski dost ka koi boyfriend ban jaaye, aur fir uski dost dheered dheere usse kabhi baat hi na kare—sirf isliye taaki uski dost khush rahe, aur shayad time ke saath vo khud bhi theek ho jaaye.
 
 Par uske andar itni himmat nahi thi ki vo khud uski dost ke liye koi ladka dhundh ke laaye, kyunki andar se vo ye bilkul nahi chahta tha ki vo kisi aur ke saath chali jaaye.
 
@@ -393,7 +393,7 @@ I am sorry ki main hamari itni pyaari dosti ko is situation tak le aaya. Tune mu
 
 I really love you.
 
-Mai dua karta hoon ki tujhe ek bahut accha ladka mile—jo teri har baat maane, aur bilkul teri type ka ho, jiske sang tu khush aur safe rahe.
+Mai umeed karta hoon ki tujhe ek bahut accha partner mile—jo teri har baat maane, aur bilkul teri type ka ho, jiske sang tu khush aur safe rahe. Kya pata shayad pehle se hi ho tere pass!
 Mujhe ek acche insaan ki tarah yaad rkhna, jo shayad teri help karne aaya tha… par tujhse hi itna pyaar kar baitha.
 
 Aur bhi bahut si baatein reh gayi hain jo kehni thi, par shayad ab aur nhi..
@@ -402,7 +402,7 @@ You are very lucky tere aur bhi dost hai, acche se rehna unke sang.
 Pehli baar likhte-likhte meri aankhen moist ho gayi hain.
 Shayad ab mera kaam bhi khatam ho gaya hai… aur mujhe chale jaana chahiye.
 
-Please apna dhyan rakhna, koi aise vaise pagal se ladke ke peeche MTT pad jaana! Mujhe hamesha Teri chinta rahegi.
+Please apna dhyan rakhna, koi aise vaise pagal se ladke ke peeche MTT pad jaana! Abbse tereko sab mushikale khud hi handle karni padengi. Mujhe hamesha Teri chinta rahegi. 
 Dil se bata raha hu, maine Terese jyda cute creature aj tak nhi dekha…maine zaroor koi accha kaam kiya hoga jiske vajah tere se jaisa dost mil paaya mereko. 
 Mai hamesha bolta tha mai jyda cute hu, but sachai yehi hai I JUST ADORE YOU SO MUCH, itna pyaara koi kaise ho sakta hai , tu itni pyaari kaise hai!
 Tu bahut pyaari si squirrel jo hamesha mere yaado me rahegi. 
