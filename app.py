@@ -6,7 +6,7 @@ import time
 # CONFIGuration
 # =========================
 PASSWORD = "byebyevaibhavi"
-COUNTDOWN_MINUTES = 10
+COUNTDOWN_MINUTES = 8
 
 # =========================
 # PAGE SETUP
